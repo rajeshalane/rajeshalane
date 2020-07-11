@@ -5,5 +5,5 @@ I'm Rajesh Alane, Student at 👨‍💻 Vishwakarma Institute of Information Te
 - 🔭 I’m currently working on Android Development, Spring Boot and HLS video streaming
 - 🌱 I’m Ex-Student Group Leader, Salesforce Trailblazer Community Group VIIT.
 - 💬 Ask me about ...
-- 📫 How to reach me: Contact me on [Linkedin]("https://linkedin.com/in/rajeshalane")
+- 📫 How to reach me: Contact me on [Linkedin](https://linkedin.com/in/rajeshalane)
 
